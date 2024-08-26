@@ -13,9 +13,7 @@
 <a href="https://github.com/vidhdhi?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=vidhdhi&theme=onestar&no-frame=true&column=3&row=2"  width="75%" alt="@vidhdhi's trophy stats"/></a>
 </p>
 
-<div align=center> 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
- </div> 
+
 
 <h1 align="center"> I am B.Viththiyatharan👨‍💻</h1>
 <h3 align="center">A Passionate Full Stack Web Developer </h3>
